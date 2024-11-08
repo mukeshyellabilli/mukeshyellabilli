@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mukeshyellabilli
-- 👀 I’m interested in ... Data Analytics and Machine learning,Artificial Intelligence
+- 👀 I’m interested in ... Data Analytics and Machine learning,Artificial Intelligence,NLP.
 - 🌱 I’m currently learning ...Data science
 - 💞️ I’m looking to collaborate on ...IT sector
 - 📫 How to reach me ...email-jhmmukesh@gmail.com and phone no:9701721637
